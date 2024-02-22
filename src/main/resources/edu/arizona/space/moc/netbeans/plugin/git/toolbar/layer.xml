@@ -3,7 +3,6 @@
 <filesystem>
     <folder name="Toolbars">
         <folder name="Git">
-
             <file name="org-netbeans-modules-git-ui-blame-AnnotateAction.shadow">
                 <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-blame-AnnotateAction.instance"/>
                 <attr name="position" intvalue="100"/>
@@ -45,7 +44,7 @@
                 <attr intvalue="550" name="position"/>
             </file>
             <file name="org-netbeans-modules-git-ui-fetch-PullFromUpstreamAction.instance.shadow">
-                  <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-PullFromUpstreamAction.instance"/>
+                <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-PullFromUpstreamAction.instance"/>
                 <attr name="position" intvalue="560"/>
             </file>
             <file name="org-netbeans-modules-git-ui-fetch-FetchFromUpstreamAction.shadow">
